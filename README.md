@@ -1,35 +1,35 @@
 # Matías Vásquez Plass
 
-Design engineer and visual artist, based in Berlin.
+Design engineer and visual artist in Berlin.
 
-I design interfaces and then build them — information architecture through to typography and
-motion, in code. Currently at Melotech, an AI music platform, where I work on the frontend and
-design side of the internal product suite. Before that I owned the frontend at Mainder, an
-AI-native recruitment platform in Madrid.
+I design interfaces and then build them. Right now that's at Melotech, an AI music platform,
+where I handle the frontend and design side of the internal tools. Before Berlin I spent a year
+and a half in Madrid as the only frontend engineer at Mainder, an AI recruitment platform.
 
-Alongside engineering I keep an independent practice in 3D and surreal digital art as
-**Matías Irreal**. Exhibited at Art Basel Miami and Milan Fashion Week, commissioned by
-Caterpillar and Bombay Sapphire, and awarded First Prize in Versiona Thyssen 2025 by the Museo
-Nacional Thyssen-Bornemisza in Madrid.
+I've also been making 3D and surreal digital art as **Matías Irreal** for about six years now.
+It's been shown at Art Basel Miami and Milan Fashion Week, Caterpillar and Bombay Sapphire have
+commissioned pieces, and in 2025 it took First Prize in Versiona Thyssen at the Museo Nacional
+Thyssen-Bornemisza in Madrid.
 
-→ **[matiasirreal.com](https://matiasirreal.com)**
+**[matiasirreal.com](https://matiasirreal.com)**
 
 ---
 
-### The work
+### What I work on
 
-Most of what I build lives in private company repositories, so this profile is quieter than my
-actual output. Broadly, the kind of problem I like:
+Almost all of it lives in private company repos, so this profile looks emptier than it is.
+Roughly, what I'm good at:
 
-- **Dense data interfaces.** Analytics and operational tooling where the honest answer is a lot
-  of numbers at once, and the design job is making that scannable rather than hiding it behind
-  summary cards.
-- **Design systems built in code.** Tokens, components and interaction patterns, without a
-  handoff step in the middle.
-- **Interfaces over generative AI.** Node-graph editors, pipeline monitoring, human review steps
-  — turning probabilistic output into something a person can actually act on.
-- **Visualisation from scratch.** Hand-built SVG and Canvas when a charting library gets in the
-  way.
+**Dense data interfaces.** Analytics and ops tools where there really are a lot of numbers, and
+the job is making them readable instead of hiding them behind four summary cards.
+
+**Design systems written in code.** Tokens, components, interaction patterns. No handoff step in
+between.
+
+**Interfaces on top of generative AI.** Node editors, pipeline monitoring, review steps where a
+person decides whether to keep what a model just made.
+
+**Charts from scratch,** in SVG and Canvas, for when a library fights you.
 
 ### Tools
 
